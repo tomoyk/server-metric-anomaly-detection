@@ -6,9 +6,9 @@ Detect anomaly metric(dns) by using DeepLearning (LSTM)
 
 DNSキャッシュサーバーのメトリックをLSTMで解析しました．
 
-<img src="figure1030.png">
+<img src="https://imgur.com/61wlhzV.png">
 
-<img src="figure1030_1400.png">
+<img src="https://imgur.com/iu4qqMj.png">
 
 ## 参考サイト
 
